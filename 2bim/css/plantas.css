@@ -1,0 +1,12 @@
+iframe{
+    border-radius: 10vh
+}
+
+div{
+    display: flex;
+    align-items: center;
+}
+.owo{
+    display: flex;
+    align-items: end;
+}
