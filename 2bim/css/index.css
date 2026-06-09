@@ -1,0 +1,10 @@
+body{
+    background-image: url(/New-IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: 101% ;
+}
+button{
+    border: 10vh;
+}
+
+

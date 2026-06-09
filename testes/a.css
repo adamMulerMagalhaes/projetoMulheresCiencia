@@ -1,0 +1,9 @@
+.botao-pedra {
+
+  
+  /* Aqui chamamos o ID do filtro SVG que criamos no HTML */
+  filter: url('#borda-quebradica');
+  
+
+}
+
