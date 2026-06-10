@@ -4,7 +4,17 @@ body{
     background-size: 101% ;
 }
 button{
-    border: 10vh;
+    margin-bottom: 5vh;
+    margin-left: 125vh;
+    width: 40vh;
+    height: 10vh;
+    transform: skewX(-10deg) ;
+    border-radius: 1vh;
+    background-color: rgb(121, 123, 143);
+}
+
+.historia{
+    margin-top: 20vh;
 }
 
 
