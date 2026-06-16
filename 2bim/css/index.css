@@ -1,0 +1,23 @@
+body{
+    background-image: url(/New-IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: 101% ;
+}
+button{
+    margin-bottom: 6vh;
+    margin-left: 125vh;
+    width: 40vh;
+    height: 13vh;
+    transform: skewX(-10deg) ;
+    border-radius: 1vh;
+    background-color: rgb(121, 123, 143);
+}
+
+.login{
+    background-color:#2b1203 ;
+    color: green;
+    margin-top: 11vh;
+    margin-left: 22vh;
+    width: 30vh;
+    height: 6vh;
+}
