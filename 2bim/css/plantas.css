@@ -1,0 +1,117 @@
+
+.card {
+  width: 340px;
+  background-color: rgb(143, 68, 27); 
+  border: 4px solid #361705; 
+  border-radius: 12px;
+  padding: 15px;
+  font-family: 'Comic Sans MS', cursive, sans-serif; 
+  box-shadow:  8px 16px rgba(0,0,0,0.5);
+  box-sizing: border-box;
+  margin-left: 1%;
+
+}
+
+
+.image-container {
+  background-color: rgb(99, 44, 16); /* Verde grama */
+  border: 4px solid #361705;
+  border-radius: 4px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+ img {
+  width: 60%;
+  height: 60%;
+}
+
+
+.title {
+  color: #e5b63d;
+  text-align: center;
+  font-size: 22px;
+  margin: 12px 0;
+  text-shadow: 2px 2px #000; 
+  letter-spacing: 1px;
+}
+
+
+.content-box {
+  background-color: #f7ca94; 
+  border: 3px solid #361705;
+  border-radius: 6px;
+  padding: 12px;
+  color: #0b1380; 
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 55vh;
+}
+
+
+.red-text {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.stat {
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+
+.story {
+  color: #743a16; 
+  font-style: italic;
+  margin: 15px 0;
+}
+
+
+.footer-stats {
+  display: flex;
+  justify-content: space-between; 
+  margin-top: 15px;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  padding-top: 8px;
+}
+
+.divi{
+    display: flex;
+    margin-bottom: 1%;
+}
+
+body{
+  background-color: rgb(252, 202, 126);
+}
+.ola{
+    margin-bottom: 5vh;
+    margin-left: 23vh;
+    width: 40vh;
+    height: 10vh;
+    transform: skewX(-10deg) ;
+    border-radius: 1vh;
+    background-color: rgb(121, 123, 143);
+}
+
+.menu{
+  display: flex;
+}
+
+.login{
+    background-color:#2b1203 ;
+    color: green;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 22vh;
+    width: 30vh;
+    height: 6vh;
+}
+
+.asd{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+.container-imagem {
+    height: 50vh;
+    width: 80vh;
+    display: flex;
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center;     /* Centraliza na vertical */
+}
